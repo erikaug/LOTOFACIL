@@ -1,0 +1,12 @@
+Projeto LOTOFÁCIL em Java:
+
+Requisitos - Desenvolver um sistema de loteria que permita aos jogadores fazer apostas de três tipos diferentes: de 0 a 100, em letras de A a Z e em números pares ou ímpares.
+Verificar se as apostas dos jogadores estão corretas e calcular os prêmios de acordo com as regras da loteria.
+Executar o sistema no terminal, apresentando um menu para os jogadores fazerem suas apostas.
+
+Como Rodar- Compile o arquivo .java usando javac NomeDoArquivo.java.
+Execute o programa compilado usando java NomeDoArquivo no terminal.
+Siga as instruções no terminal para fazer suas apostas e interagir com o sistema de loteria.
+
+Bibliotecas Utilizadas - java.util.Random: Para geração de números aleatórios.
+                        java.util.Scanner: Para leitura de entradas do usuário.
